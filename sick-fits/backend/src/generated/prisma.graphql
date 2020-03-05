@@ -1,5 +1,5 @@
 # source: https://us1.prisma.sh/gustavo-abdelnour/Sick-fits-GA/dev
-# timestamp: Fri Feb 21 2020 13:25:56 GMT-0500 (Eastern Standard Time)
+# timestamp: Mon Feb 24 2020 18:13:39 GMT-0500 (Eastern Standard Time)
 
 type AggregateItem {
   count: Int!
